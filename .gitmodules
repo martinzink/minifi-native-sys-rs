@@ -1,0 +1,4 @@
+[submodule "external/minifi-cpp"]
+	path = external/minifi-cpp
+	url = https://github.com/adamdebreceni/nifi-minifi-cpp.git
+    branch = processor-c-api
