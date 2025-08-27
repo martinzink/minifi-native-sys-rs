@@ -9,4 +9,4 @@ license = "Apache-2.0"
 
 # This crate needs bindgen to run the build script
 [build-dependencies]
-bindgen = "0.69"
+bindgen = "0.72.0"
